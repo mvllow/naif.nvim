@@ -18,6 +18,16 @@ Install naïf via your favourite plugin manager, then initialise the plugin.
 require("naif").setup()
 ```
 
+## Gallery
+
+**Rosé Pine without naïf**
+
+<img width="705" alt="Rosé Pine without naïf" src="https://github.com/mvllow/naif.nvim/assets/1474821/dea6914c-c063-465a-ab62-0855402e0762">
+
+**Rosé Pine with naïf**
+
+<img width="705" alt="Rosé Pine with naïf" src="https://github.com/mvllow/naif.nvim/assets/1474821/0ad68ce2-ab5e-4043-8656-a2e10e23830c">
+
 ## Options
 
 Naïf is intended to work without any extra configuration. Options should be considered a method for fixing undesirable or broken defaults.
