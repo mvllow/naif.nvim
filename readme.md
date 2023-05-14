@@ -1,6 +1,6 @@
 # naïf.nvim
 
-> Naïve syntax highlighting.
+> Naïve syntax highlighting
 
 **This plugin is experimental and a work-in-progress. Neovim nightly is recommended, as a currently unreleased [pull request](https://github.com/neovim/neovim/pull/22693) is utilised.**
 
