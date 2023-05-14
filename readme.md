@@ -6,7 +6,7 @@
 
 ## Introduction
 
-_[On the design of text editors](https://arxiv.org/pdf/2008.06030.pdf)_ by Nicolas P. Rougier–as the title suggests–discusses the design of text editors, including the lack of evidence supporting the utility of syntax highlighting for code comprehension. Naïf reduces your current theme's palette while applying opinionated design principals regarding typography and colour. Try naïf with your favourite theme and enjoy the labours of a well-crafted interface and elegant syntax highlighting.
+_[On the design of text editors](https://arxiv.org/pdf/2008.06030.pdf)_ by Nicolas P. Rougier––as the title suggests––discusses the design of text editors, including the lack of evidence supporting the utility of syntax highlighting for code comprehension. Naïf reduces your current theme's palette while applying opinionated design principals regarding typography and colour. Try naïf with your favourite theme and enjoy the labours of a well-crafted interface and elegant syntax highlighting.
 
 Naïf tries not to interfere with plugins, diagnostics, or other non-syntax related highlighting.
 
@@ -34,7 +34,7 @@ Naïf is intended to work without any extra configuration. Options should be con
 
 **disable_extra_highlights**
 
-Naïf manages basic syntax groups only, disabling treesitter highlights and semantic tokens by default. Changing this option from the default value will introduce a more colourful–less naïf–syntax.
+Naïf manages basic syntax groups only, disabling treesitter highlights and semantic tokens by default. Changing this option from the default value will introduce a more colourful (less naïf) syntax.
 
 ```lua
 disable_extra_highlights = true
