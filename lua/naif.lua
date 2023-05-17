@@ -15,7 +15,7 @@ local function get_palette(overrides)
 	local palette = {
 		strong = { fg = get_highlight("Normal").fg, bold = true },
 		normal = { fg = get_highlight("Normal").fg, bg = get_highlight("Normal").bg },
-		critical = { fg = get_highlight("Normal").fg, bg = get_highlight("ErrorMsg").fg },
+		critical = { fg = get_highlight("Normal").bg, bg = get_highlight("ErrorMsg").fg },
 		popout = { fg = get_highlight("Number").fg },
 		salient = { fg = get_highlight("Type").fg },
 		faded = { fg = get_highlight("Comment").fg },
